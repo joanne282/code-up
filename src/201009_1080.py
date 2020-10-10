@@ -7,3 +7,4 @@ for i in range (num+1):
   if sum >= num:
     print(i)
     break
+    
