@@ -72,6 +72,3 @@ for i in range(0,num_h):
       print(list_res[i][j],end ="\n")
     else:
       print(list_res[i][j],end =" ")
-
-
-# 1099
